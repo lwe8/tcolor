@@ -3,3 +3,5 @@ node_modules
 .github
 src
 .vscode
+build.js 
+tsconfig.json
