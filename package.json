@@ -1,0 +1,25 @@
+{
+  "name": "@lwe8/tcolor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwe8/tcolor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lwe8/tcolor/issues"
+  },
+  "homepage": "https://github.com/lwe8/tcolor#readme",
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "esbuild": "^0.25.9",
+    "typescript": "^5.9.2"
+  }
+}
